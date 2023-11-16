@@ -21,7 +21,7 @@ How to use it:
 
 1 Choose the stage where you want to get the influence mataix.
 
-2 Input your node labels, in format "start:end:intervel,start:end,pointLabel"
+2 Input your node labels, in format "start : end : intervel,start : end,pointLabel"
 
 3 Example:"1:6:2,7:9,10" means node label:"1,3,5,7,8,10"
 
