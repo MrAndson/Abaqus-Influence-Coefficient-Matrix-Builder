@@ -19,7 +19,7 @@ How to install it:
 
 How to use it:
 
-1 Choose the stage where you want to get the influence mataix.
+1 Choose the stage where you want to get the influence mataix. Make sure no "initial" in the GUI.
 
 2 Input your node labels, in format "start : end : intervel,start : end,pointLabel"
 
